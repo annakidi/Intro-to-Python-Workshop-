@@ -12,7 +12,7 @@ We will be using [Notable]([https://notable.ed.ac.uk/](https://noteable.edina.ac
 3. Save the file to your computer (e.g., your Downloads folder).
 
 ### 2. Log onto Notable
-1. Log into Notable (insert your specific institutional login instructions or link here, e.g., via your Learn portal).
+1. Log into Notable (https://www.ease.ed.ac.uk/cosign.cgi?cosign-eucsCosign-noteable.edina.ac.uk&https://noteable.edina.ac.uk/login).
 2. Start your personal server. When prompted, select the **Jupyter Classic(legacy)** option.
 
 ### 3. Upload to Notable
