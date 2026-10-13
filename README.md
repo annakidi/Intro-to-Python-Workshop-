@@ -1,6 +1,4 @@
 # Intro-to-Python-Workshop-
-Beginner intro to python jupyter notebook workshop that runs through the basics of python. Users solve mini challenges to gain more confident with their skills and eventually build a hangman game.  
-# Intro to Python Workshop
 
 Welcome to the beginner Python workshop! This repository contains the interactive Jupyter Notebook we will be using to learn Python basics and build our final Hangman game.
 
