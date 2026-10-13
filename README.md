@@ -22,3 +22,8 @@ We will be using [Notable]([https://notable.ed.ac.uk/](https://noteable.edina.ac
 4. Double-click the newly uploaded notebook in the Notable file browser to open it.
 
 You are now ready to start coding!
+
+### Extension 
+
+If you finish the workshop, have a look at these beginner projects. Try and build something on your own!
+https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/
