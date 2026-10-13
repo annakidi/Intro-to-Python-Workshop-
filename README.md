@@ -1,4 +1,4 @@
-# Intro-to-Python-Workshop-
+# Intro-to-Python-Workshop- 
 
 Welcome to the beginner Python workshop! This repository contains the interactive Jupyter Notebook we will be using to learn Python basics and build our final Hangman game.
 
